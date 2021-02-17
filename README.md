@@ -9,4 +9,4 @@ Clone the repository and add all of its files to a subfolder in the scripts fold
 ## Customization
 To add additional properties to be exported, call savePropertyToFile in exportTrackDetails with the needed parameters, e.g.
 
-`await this.savePropertyToFile(currentTrack, 'album', `${this.exportFolderPath}\\album.txt`);`
+```await this.savePropertyToFile(currentTrack, 'album', `${this.exportFolderPath}\\album.txt`);```
