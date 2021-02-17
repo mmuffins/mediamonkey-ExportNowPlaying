@@ -1,0 +1,8 @@
+{
+    "title": "Export Now Playing",
+    "id": "exportnowplaying",
+    "description": "Example to show how to export information of the currently playing track to the filesystem.",
+    "version": "1.0.0",
+    "type": "general",
+    "author": "mmuffins"
+}
